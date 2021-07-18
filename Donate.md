@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-#Donate Me some BTC :)
+# Donate Me some BTC :)
 
 ![BTC-QR](https://user-images.githubusercontent.com/53198048/126067616-7c4ead19-015c-47b4-b3d7-e198bf0ecc1a.png)
 
