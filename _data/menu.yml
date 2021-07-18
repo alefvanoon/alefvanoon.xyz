@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: me
+  - title: Me
     entries:
       - title: Service
         url: https://l.alefvanoon.xyz
@@ -14,3 +14,7 @@ entries:
         url: https://github.com/alefvanoon
       - title: Donate
         url: /Donate
+  - title: Fav
+    entries:
+      - title: Movies
+        url: /Movies
