@@ -1,8 +1,7 @@
 ---
 layout: post
+title: Donate
 ---
-
-## Donate
 
 BTC: **bc1q4ukxhxmjp0pymn3qxtke6ewjvfrdtgu93p4ucq**
 
