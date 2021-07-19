@@ -9,3 +9,7 @@ pub   rsa4096 2021-07-19 [SCEA]
 uid           [ultimate] alefvanoon <alefvanoon@disroot.org>
 sub   rsa4096 2021-07-19 [SEA]
 ```
+Also if you’re using UNIX-like operating systems you can add my key with this command:
+```
+curl 'https://alefvanoon.xyz/PGP.asc' | gpg --import
+```
