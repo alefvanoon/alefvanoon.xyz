@@ -7,7 +7,7 @@ entries:
       - title: Service
         url: https://l.alefvanoon.xyz
       - title: PGP
-        url: https://alefvanoon.xyz/PGP.asc
+        url: /PGP
       - title: E-Mail
         url: mailto:alefvanoon@disroot.org
       - title: GitHub
