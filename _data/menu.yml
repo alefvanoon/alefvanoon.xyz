@@ -7,14 +7,16 @@ entries:
       - title: Service
         url: https://l.alefvanoon.xyz
       - title: PGP
-        url: /PGP
+        url: /pgp
       - title: E-Mail
         url: mailto:alefvanoon@disroot.org
       - title: GitHub
         url: https://github.com/alefvanoon
       - title: Donate
-        url: /Donate
+        url: /donate
   - title: Pages
     entries:
       - title: Fav movies
-        url: /Movies
+        url: /movies
+      - title: Now
+        url: /now
