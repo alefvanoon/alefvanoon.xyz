@@ -16,7 +16,7 @@ entries:
         url: https://l.alefvanoon.xyz
       - title: Now
         url: /now
-        - title: Donate
+      - title: Donate
         url: /donate
       - title: Fav movies
         url: /movies
