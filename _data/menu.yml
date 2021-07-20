@@ -10,7 +10,8 @@ entries:
         url: mailto:alefvanoon@disroot.org
       - title: GitHub
         url: https://github.com/alefvanoon
-        - title: Pages
+
+  - title: Pages
     entries:
       - title: Non-profit service
         url: https://l.alefvanoon.xyz
