@@ -22,4 +22,8 @@ entries:
       - title: Favorite
         entries:
           - title: Movies
-            url: /movies
+            url: /favmovies
+          - title: Blogs
+            url: /favblogs
+          - title: Podcasts
+            url: /favpodcast=
