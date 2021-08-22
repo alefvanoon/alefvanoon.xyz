@@ -19,12 +19,12 @@ body[a="dark"] { @include dark-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html, body { background: black; }
 
 html { height: 100%; }
 
 body {
-  color: black;
+  color: white;
   font-family: monospace;
   font-size: 16px;
   line-height: 1.4;
@@ -62,14 +62,14 @@ hr {
 table { width: 100%; }
 
 table, th, td {
-  border: thin solid black;
+  border: thin solid white;
   border-collapse: collapse;
   padding: 0.4rem;
 }
 
 code {
-  color: white;
-  background: black;
+  color: black;
+  background: white;
 }
 
 div.highlighter-rouge code {
