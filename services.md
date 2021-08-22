@@ -93,3 +93,27 @@ Simple, private file sharing. Send lets you share files with end-to-end encrypti
 Peer-to-peer file transfers in your browser.
 
 [GitHub](https://gitlab.com/timvisee/send/) |
+
+## [CyberChef](https://cyberchef.alefvanoon.xyz/)
+
+CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser. CyberChef is entirely client-side, none of your input is ever sent to the server.
+
+[GitHub](https://github.com/gchq/CyberChef/) |
+
+## [Piped](https://piped.alefvanoon.xyz/)
+
+An alternative privacy-friendly YouTube frontend which is efficient by design.
+
+[GitHub](https://github.com/TeamPiped/Piped/) |
+
+## [CloudTube](https://tube.alefvanoon.xyz/)
+
+An alternative front-end for YouTube.
+
+[GitHub](https://github.com/TeamPiped/Piped/) |
+
+## [Metasearch](https://ss.alefvanoon.xyz/)
+
+Metasearch engine inspired by Searx, written in TypeScript.
+
+[GitHub](https://github.com/mat-1/metasearch/) |
