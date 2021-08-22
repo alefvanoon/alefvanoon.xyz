@@ -61,3 +61,35 @@ Etherpad is a real-time collaborative rich text editor like Google Docs without 
 Free and Open Source Speedtest. No Flash, No Java, No Websocket, No Bullshit.
 
 [GitHub](https://github.com/librespeed/speedtest/) |
+
+## [AllTube(ytdl)](https://yt.alefvanon.xyz/)
+
+HTML GUI for youtube-dl.(youtube video downloader)
+
+[GitHub](https://github.com/Rudloff/alltube/) |
+
+
+## [HedgeDoc](https://mdpad.alefvanon.xyz/)
+
+HedgeDoc lets you create real-time collaborative markdown notes on all platforms.
+
+[GitHub](https://github.com/hedgedoc/hedgedoc/) |
+
+
+## [RSS-Bridge](https://rssb.alefvanon.xyz/)
+
+With RSS-Bridge you can generate Atom feeds and RSS feeds for webpages that do not have this.
+
+[GitHub](https://github.com/RSS-Bridge/rss-bridge/) |
+
+## [Send](https://send.alefvanoon.xyz/)
+
+Simple, private file sharing. Send lets you share files with end-to-end encryption and a link that automatically expires. So you can keep what you share private and make sure your stuff doesn’t stay online forever.
+
+[GitHub](https://gitlab.com/timvisee/send/) |
+
+## [File Pizza](https://filepizza.alefvanoon.xyz/)
+
+Peer-to-peer file transfers in your browser.
+
+[GitHub](https://gitlab.com/timvisee/send/) |
