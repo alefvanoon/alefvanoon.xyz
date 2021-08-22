@@ -1,5 +1,5 @@
 ---
-title: services
+title: Services
 ---
 
 ## [Searx](https://sx.alefvanoon.xyz/)
