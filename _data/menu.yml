@@ -14,7 +14,7 @@ entries:
   - title: Pages
     entries:
       - title: "<a href='https://l.alefvanoon.xyz'>Services</a> (<a href='https://alefvanoon.xyz/services'>Light landing page</a>)"
-        url: https://l.alefvanoon.xyz
+        url: https://services.alefvanoon.xyz
       - title: Now
         url: /now
       - title: Donate
@@ -26,4 +26,4 @@ entries:
           - title: Blogs
             url: /favblogs
           - title: Podcasts
-            url: /favpodcast=
+            url: /favpodcast
