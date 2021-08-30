@@ -13,7 +13,7 @@ entries:
 
   - title: Pages
     entries:
-      - title: "<a href='https://l.alefvanoon.xyz'>Services</a> (<a href='https://alefvanoon.xyz/services'>Light landing page</a>)"
+      - title: Services
         url: https://services.alefvanoon.xyz
       - title: Now
         url: /now
