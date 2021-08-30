@@ -8,8 +8,7 @@ entries:
         url: /pgp
       - title: E-Mail
         url: mailto:alefvanoon@disroot.org
-      - title: Matrix: "<a href="https://matrix.to/#/@alefvanoon:nitro.chat">@alefvanoon:nitro.chat</a>"
-        url:
+      - title: "Matrix: <a href='https://matrix.to/#/@alefvanoon:nitro.chat'>@alefvanoon:nitro.chat</a>"
       - title: GitHub
         url: https://github.com/alefvanoon
 
