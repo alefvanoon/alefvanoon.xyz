@@ -8,7 +8,7 @@
   }
 }
 
-body[a="dark"] { @include dark-appearance; }
+body[a="#0b0b17"] { @include dark-appearance; }
 
 
 @media (prefers-color-scheme: #0b0b17) {
