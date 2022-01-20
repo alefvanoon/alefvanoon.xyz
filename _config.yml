@@ -1,6 +1,6 @@
-title: alefvanoon :) # name of the site
+title: alefvanoon # name of the site
 author: alefvanoon # name of site's author
-email: alefvanoon@disroot.org # email of site's author
+email: me@alefvanoon.xyz # email of site's author
 url: https://alefvanoon.xyz # root address of the site
 baseurl:  # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
